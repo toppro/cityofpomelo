@@ -855,6 +855,7 @@ var MainGamePanelLayer = cc.Layer.extend({
   },
 
   onComeOnStage: function(data) {
+    this.showExchangeX(false);
     this.showTaxesAnimation(false);
     this.showSkillAnimation(false);
     this.mCurRoleId = data.roleId;
