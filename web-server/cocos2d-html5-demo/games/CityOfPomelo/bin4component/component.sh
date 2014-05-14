@@ -1,0 +1,1 @@
+cd ./lib4pomelo && component install -f && component build -v
