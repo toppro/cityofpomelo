@@ -1,0 +1,1 @@
+node splitPng.js
