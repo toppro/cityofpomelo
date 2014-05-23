@@ -447,7 +447,7 @@ var g_resources = [
 ];
 
 var gGameSvrAddr = {
-  ip: '10.240.155.201',
+  ip: '127.0.0.1',
   port: 3014
 };
 
